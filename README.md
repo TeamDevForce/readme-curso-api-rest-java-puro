@@ -1,1 +1,0 @@
-# readme-curso-api-rest-java-puro
